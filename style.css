@@ -81,7 +81,7 @@ header{
 .moto{
     height: 400px;
     width: 700px;
-    background-image: url(images/moto.jpg);
+    background-image: url(./images/moto.jpg);
     background-size: cover;
 }
 .theme2{
@@ -94,7 +94,7 @@ header{
 .moto2{
     height: 400px;
     width:700px;
-    background-image: url(images/moto2.jpg);
+    background-image: url(./images/moto2.jpg);
     background-size: cover;
 }
 .item{
